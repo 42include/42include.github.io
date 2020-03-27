@@ -21,7 +21,7 @@ Comment expliquer qu’une femme aussi brillante et reconnue par ses pairs se se
 Pourquoi sommes-nous si nombreux à, comme elle, souffrir du syndrome de l’imposteur ? Comment naît ce phénomène et est-ce si grave de l’avoir ? »_
 
 <figure class="half">
-	<img src="/assets/img/posts/Emotions_E1_imposteur.jpgEmotions_E1_imposteur.jpg">
+	<img src="/assets/img/posts/Emotions_E1_imposteur.jpg">
 	<figcaption><a href="https://soundcloud.com/louiemedia/le-syndrome-de-limposteur-pourquoi-nous-hante-t-il-tant
 " title="Emotions - Louie Media - Syndrome de l'imposteur">Emotions - Louie Media - Syndrome de l'imposteur</a>.</figcaption>
 </figure>
